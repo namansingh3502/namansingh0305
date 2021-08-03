@@ -21,6 +21,8 @@ I am Naman Singh, currently pursuing my bachelor's degree in computer science. I
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## Github Usage ~ Status 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=namansingh3502&theme=tokyonight&count_private=true)
+
 ![Aemie's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=namansingh3502&show_icons=true&hide_border=true&theme=tokyonight&private=true) 
 
 ## Language Usage ~ Status
