@@ -3,7 +3,7 @@
 I am Naman Singh, currently pursuing my bachelor's degree in computer science. I am a tech enthusiast. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 ## My Portfolio
-[Portfolio](https://namansingh.gatsbyjs.io/)
+[Portfolio](https://namansingh.me/)
 
 ## Contact Me
 [![Linkedin Badge](https://img.shields.io/badge/-namansingh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naman-singh-215b2119b/)](https://www.linkedin.com/in/naman-singh-215b2119b/)
